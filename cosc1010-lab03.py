@@ -1,6 +1,6 @@
 # Eugenia Ceinos
 # UWYO COSC 1010
-# Submission Date
+# Submission Date: 9/29/2024
 # Lab 03 
 # Lab Section: 16
 # Sources, people worked with, help given to: https://www.w3schools.com/python/ref_list_remove.asp I used that page to check some functions
