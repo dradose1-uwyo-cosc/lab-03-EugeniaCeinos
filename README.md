@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Eugenia Ceinos]
+## [Assignment 3#]
+## [Submission date: 9/30/24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* https://www.w3schools.com/python/ref_list_remove.asp I used that page to check some functions
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* none
